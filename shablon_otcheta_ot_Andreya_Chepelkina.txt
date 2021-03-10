@@ -1,0 +1,104 @@
+%﻿\documentclass[a4paper,12pt]{report}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english,russian]{babel}
+
+\usepackage{geometry}
+\geometry{left=2cm}
+\geometry{right=1.5cm}
+\geometry{top=1cm}
+\geometry{bottom=2cm}
+
+\begin{document}
+
+    \begin{titlepage}
+
+        \begin{center}
+            \large
+            Государственное образовательное учреждение высшего профессионального образования\\
+%            “Московский государственный технический университет имени Н.Э.Баумана”
+            \vspace{3cm}
+            
+            \textsc{Дисциплина: Анализ алгоритмов}
+            \vspace{0.5cm}
+                
+            \textsc{Лабораторная работа №}
+            \vspace{3cm}
+            
+            {\LARGE ТЕМА}
+            \vspace{3cm}
+            
+            Студент группы ИУ7-52,\\   
+            *имя студента*
+            \vfill
+            
+            2019 г.
+            
+            \end{center}
+
+    \end{titlepage}
+
+    \begin{center}
+        \textbf{Введение}
+        \label{sec:intro}
+    \end{center}
+
+    \newpage
+
+    \begin{center}
+        \textbf{1 Аналитическая часть}
+        \label{sec:analitic_part}
+
+        \textbf{1.1 Описание алгоритмов}
+    \end{center}
+
+    \newpage
+
+    \begin{center}
+        \textbf{2 Конструкторская часть}
+        \label{sec:construct_part}
+
+        \textbf{2.1 Разработка алгоритмов}
+    \end{center}
+
+    \newpage
+
+    \begin{center}
+        \textbf{3 Технологическая часть}
+        \label{sec:tecnologic_part}
+
+        \textbf{3.1. Требования к программному обеспечению}
+
+        \textbf{3.2. Средства реализации}
+
+        \textbf{3.3. Листинг кода}
+    \end{center}
+
+    \newpage
+
+    \begin{center}
+        \textbf{4 Экспериментальная часть}
+        \label{sec:experimental_part}
+
+        \textbf{4.1. Примеры работы}
+
+        \textbf{4.2. Постановка эксперимента}
+        
+        \textbf{4.3. Сравнительный анализ на материале экспериментальных данных}
+    \end{center}
+
+    \newpage
+
+    \begin{center}
+        \textbf{Заключение}
+        \label{sec:conclusion_part}
+    \end{center}
+
+    \newpage
+
+    \begin{center}
+        \textbf{Список литературы}
+        \label{sec:biblio_part}
+    \end{center}
+
+\end{document}
