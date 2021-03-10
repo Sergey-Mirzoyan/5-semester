@@ -1,0 +1,56 @@
+№1
+1.1 SQL
+select * from Tourists
+where	Tourists.ID = ST.TouristID and
+		ST.SightId = Sight.ID and
+		Sights.CityID = Tourists.ID
+		
+1.2 SQL
+SELECT * FROM Tourists
+WHERE	Tourists.ID = ST.TouristID AND
+		ST.Date > "31.12.2016" AND ST.Date < "1.01.2018"
+		
+1.3 SQL
+SELECT * AS CNT FROM Tourists
+WHERE Tourists.Age > 17 AND Tourists.Age < 51
+
+1.1 РА
+((Tourists RENAME CityID AS TCID) JOIN TS) JOIN (SIGHTS RENNAME CityID AS SCID))
+ 
+1.2 РА
+((ST JOIN Tourists) WHERE Date > 31.12.2016 AND Date < 1.01.2018)
+
+1.3 РА
+((ST JOIN Tourists) WHERE Age > 17 AND Age < 51)
+
+1.1
+RANGE OF TX IS Tourists
+RANGE OF SX IS Sights
+RANGE OF RY IS SX.ID
+WHERE EXISTS SX(SX.CityID = TX.ID)
+
+1.2
+
+
+1.3
+RANGE OF TX IS Tourists
+RANGE OF RY IS TX.Age
+WHERE EXISTS TX(TX.Age > 17 AND TX.Age < 51)
+
+№2
+R(A, B, C, D, E, F)
+F(	A->B
+	ABCD->E
+	EF->GH
+	ACDF->EG)
+	
+	EF->G
+	EF->H
+	
+	ACDF->E
+	ACDF->G)
+Минимальное покрытие (	ABCD->E 	
+			EF->H 	
+			ACDF->E 	
+			ACDF->G 	
+			A->B)

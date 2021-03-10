@@ -1,0 +1,10 @@
+insert into Director (DirectorID, FullName, Birthday, Experience, PhoneNumber) values (1, 'Rana Bendik', 1.12.1387, 6, '3653655226');
+insert into Director (DirectorID, FullName, Birthday, Experience, PhoneNumber) values (2, 'Shalne Swett', 1.1.1980, 15, '3106470325');
+insert into Director (DirectorID, FullName, Birthday, Experience, PhoneNumber) values (3, 'Redd Tague', 10.10.1978, 30, '2413566086');
+insert into Director (DirectorID, FullName, Birthday, Experience, PhoneNumber) values (4, 'Latrina Duffitt', 12.5.1982, 4, '5673254696');
+insert into Director (DirectorID, FullName, Birthday, Experience, PhoneNumber) values (5, 'Stesha Olsen', 1.11.1976, 20, '8127438123');
+insert into Director (DirectorID, FullName, Birthday, Experience, PhoneNumber) values (6, 'Dyann Synder', 21.11.1960, 30, '2267328660');
+insert into Director (DirectorID, FullName, Birthday, Experience, PhoneNumber) values (7, 'Aldon Kelleway', 1.1.1966, 22, '4024015305');
+insert into Director (DirectorID, FullName, Birthday, Experience, PhoneNumber) values (8, 'Ortensia Smieton', 13.11.1952, 40, '4899627245');
+insert into Director (DirectorID, FullName, Birthday, Experience, PhoneNumber) values (9, 'Rhonda Teaz', 15.2.1948, 50, '7438099737');
+insert into Director (DirectorID, FullName, Birthday, Experience, PhoneNumber) values (10, 'Alejandrina Luttger', 17.7.1943, 34, '8161361369');

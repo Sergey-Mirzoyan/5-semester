@@ -1,0 +1,28 @@
+{
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "integer"
+        },
+        "first_name": {
+            "type": "string"
+        },
+		"last_name": {
+            "type": "string",
+			"pattern": "^[aA]{1}"
+        },
+		"s_group": {
+            "type": "integer"
+        },
+		"age": {
+            "type": "integer"
+        }
+    },
+    "required": [
+	"id", 
+	"first_name", 
+	"last_name", 
+	"s_group",
+	"age"
+    ]
+}

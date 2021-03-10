@@ -1,0 +1,6 @@
+C:\Users\serge\Desktop\Базы данных\РК3\RK3\RK3\bin\Release\RK3.exe.config
+C:\Users\serge\Desktop\Базы данных\РК3\RK3\RK3\bin\Release\RK3.exe
+C:\Users\serge\Desktop\Базы данных\РК3\RK3\RK3\bin\Release\RK3.pdb
+C:\Users\serge\Desktop\Базы данных\РК3\RK3\RK3\obj\Release\RK3.csprojAssemblyReference.cache
+C:\Users\serge\Desktop\Базы данных\РК3\RK3\RK3\obj\Release\RK3.exe
+C:\Users\serge\Desktop\Базы данных\РК3\RK3\RK3\obj\Release\RK3.pdb
