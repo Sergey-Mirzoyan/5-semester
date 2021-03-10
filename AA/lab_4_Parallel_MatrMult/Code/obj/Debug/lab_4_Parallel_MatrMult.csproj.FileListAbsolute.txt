@@ -1,0 +1,6 @@
+C:\Users\serge\Desktop\lab_4_Parallel_MatrMult\Code\bin\Debug\lab_4_Parallel_MatrMult.exe.config
+C:\Users\serge\Desktop\lab_4_Parallel_MatrMult\Code\bin\Debug\lab_4_Parallel_MatrMult.exe
+C:\Users\serge\Desktop\lab_4_Parallel_MatrMult\Code\bin\Debug\lab_4_Parallel_MatrMult.pdb
+C:\Users\serge\Desktop\lab_4_Parallel_MatrMult\Code\obj\Debug\lab_4_Parallel_MatrMult.csprojAssemblyReference.cache
+C:\Users\serge\Desktop\lab_4_Parallel_MatrMult\Code\obj\Debug\lab_4_Parallel_MatrMult.exe
+C:\Users\serge\Desktop\lab_4_Parallel_MatrMult\Code\obj\Debug\lab_4_Parallel_MatrMult.pdb

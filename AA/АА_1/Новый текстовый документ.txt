@@ -1,0 +1,1 @@
+g++ damerau_levenshtein.cpp damerau_levenshtein.hpp generate_string.cpp generate_string.hpp levenstein.cpp levenstein.hpp levenstein_recurs.cpp levenstein_recurs.hpp main.cpp test.cpp test.hpp -o a.exe
